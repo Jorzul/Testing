@@ -1,0 +1,22 @@
+# ninja log v5
+11	147	7108184407662482	Testing_autogen/timestamp	dcfa6e7e7e729252
+629	942	7108184413926178	Testing.exe	110df59ed543ff94
+11	147	7108184407662482	Testing_autogen/mocs_compilation.cpp	dcfa6e7e7e729252
+198	256	7108163152201608	CMakeFiles/Testing.dir/Testing_autogen/mocs_compilation.cpp.obj	51abec6d134bc38d
+202	1738	7108163167006372	CMakeFiles/Testing.dir/main.cpp.obj	3f92b05fa4a80a7c
+11	147	7108184407662482	C:/Users/User/OneDrive/Documents/GitHub/Testing/cmake-build-debug/Testing_autogen/timestamp	dcfa6e7e7e729252
+11	147	7108184407662482	C:/Users/User/OneDrive/Documents/GitHub/Testing/cmake-build-debug/Testing_autogen/mocs_compilation.cpp	dcfa6e7e7e729252
+152	628	7108184412472872	CMakeFiles/Testing.dir/repository.cpp.obj	985b332b26b242f3
+11	165	7108206014844513	Testing_autogen/timestamp	dcfa6e7e7e729252
+11	165	7108206014844513	Testing_autogen/mocs_compilation.cpp	dcfa6e7e7e729252
+11	165	7108206014844513	C:/Users/User/OneDrive/Documents/GitHub/Testing/cmake-build-debug/Testing_autogen/timestamp	dcfa6e7e7e729252
+11	165	7108206014844513	C:/Users/User/OneDrive/Documents/GitHub/Testing/cmake-build-debug/Testing_autogen/mocs_compilation.cpp	dcfa6e7e7e729252
+173	938	7108206022577653	CMakeFiles/Testing.dir/session.cpp.obj	5b0602e76bb851c8
+169	2280	7108206035983609	CMakeFiles/Testing.dir/window.cpp.obj	dd41733b3cae6334
+2281	3530	7108206040809640	Testing.exe	93e083ae9d165318
+12	143	7108208191690457	Testing_autogen/timestamp	dcfa6e7e7e729252
+12	143	7108208191690457	Testing_autogen/mocs_compilation.cpp	dcfa6e7e7e729252
+12	143	7108208191690457	C:/Users/User/OneDrive/Documents/GitHub/Testing/cmake-build-debug/Testing_autogen/timestamp	dcfa6e7e7e729252
+12	143	7108208191690457	C:/Users/User/OneDrive/Documents/GitHub/Testing/cmake-build-debug/Testing_autogen/mocs_compilation.cpp	dcfa6e7e7e729252
+147	2160	7108208211955353	CMakeFiles/Testing.dir/main.cpp.obj	3f92b05fa4a80a7c
+2160	2883	7108208214137468	Testing.exe	93e083ae9d165318

@@ -1,0 +1,6 @@
+Mihai|mihai@yahoo.com|Sports,IT,Puzzle|Sports
+Alex|alex@yahoo.com|Movies,Music|Reading
+Ioana|ioana@yahoo.com|Mihut,Andrei|Car
+Razvan|razvan@yahoo.com|Footbal,Tennis|Sports
+Mihuta|mihuta@yahoo.com|Adereol|Unassigned
+erik|esteee@yahoo.com|nupreaare|Car
